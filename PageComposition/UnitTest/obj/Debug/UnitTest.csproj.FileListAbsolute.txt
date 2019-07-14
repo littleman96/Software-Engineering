@@ -1,0 +1,9 @@
+G:\08230\ACW\PageComposition\UnitTest\bin\Debug\UnitTest.dll
+G:\08230\ACW\PageComposition\UnitTest\bin\Debug\UnitTest.pdb
+G:\08230\ACW\PageComposition\UnitTest\bin\Debug\BusinessLogic.dll
+G:\08230\ACW\PageComposition\UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\08230\ACW\PageComposition\UnitTest\bin\Debug\BusinessLogic.pdb
+G:\08230\ACW\PageComposition\UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+G:\08230\ACW\PageComposition\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+G:\08230\ACW\PageComposition\UnitTest\obj\Debug\UnitTest.dll
+G:\08230\ACW\PageComposition\UnitTest\obj\Debug\UnitTest.pdb

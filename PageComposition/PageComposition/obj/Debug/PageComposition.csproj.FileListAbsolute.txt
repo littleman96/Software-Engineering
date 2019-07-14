@@ -1,0 +1,10 @@
+G:\08230\ACW\PageComposition\PageComposition\bin\Debug\PageComposition.exe.config
+G:\08230\ACW\PageComposition\PageComposition\bin\Debug\PageComposition.exe
+G:\08230\ACW\PageComposition\PageComposition\bin\Debug\PageComposition.pdb
+G:\08230\ACW\PageComposition\PageComposition\bin\Debug\BusinessLogic.dll
+G:\08230\ACW\PageComposition\PageComposition\bin\Debug\IO.dll
+G:\08230\ACW\PageComposition\PageComposition\bin\Debug\BusinessLogic.pdb
+G:\08230\ACW\PageComposition\PageComposition\bin\Debug\IO.pdb
+G:\08230\ACW\PageComposition\PageComposition\obj\Debug\PageComposition.csprojResolveAssemblyReference.cache
+G:\08230\ACW\PageComposition\PageComposition\obj\Debug\PageComposition.exe
+G:\08230\ACW\PageComposition\PageComposition\obj\Debug\PageComposition.pdb

@@ -1,0 +1,5 @@
+G:\08230\ACW\PageComposition\BusinessLogic\bin\Debug\BusinessLogic.dll
+G:\08230\ACW\PageComposition\BusinessLogic\bin\Debug\BusinessLogic.pdb
+G:\08230\ACW\PageComposition\BusinessLogic\obj\Debug\BusinessLogic.dll
+G:\08230\ACW\PageComposition\BusinessLogic\obj\Debug\BusinessLogic.pdb
+G:\08230\ACW\PageComposition\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
